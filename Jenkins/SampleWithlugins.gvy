@@ -59,4 +59,3 @@ pipeline {
 
       }
     }
-view rawJenkinsfile hosted with ❤ by GitHub
